@@ -1,0 +1,9 @@
+en:
+  numbers:
+    one: one
+    two: two
+    three: three
+  interpolations:
+    one_with_description: 'one: %{description}'
+    the_date_was: 'The date was %{date}'
+    the_price_is: 'The price is %{price}'
